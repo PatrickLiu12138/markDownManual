@@ -34,6 +34,8 @@ markdown文件的编写手册
     - [静态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
     - [动态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
 
+[参考模板](https://github.com/PatrickLiu12138/markDownManual/tree/main/template)
+
 ## License
 
 Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
