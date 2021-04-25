@@ -15,6 +15,7 @@ markdown文件的编写手册
     - [删除线](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%AD%97%E4%BD%93.md) 
     - [下划线](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%AD%97%E4%BD%93.md) 
     - [脚注](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%AD%97%E4%BD%93.md) 
+    - [表情](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%AD%97%E4%BD%93.md) 
 - [段落](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E6%AE%B5%E8%90%BD.md)  
 - [目录跳转](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E7%9B%AE%E5%BD%95%E8%B7%B3%E8%BD%AC.md) 
 - [列表](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%97%E8%A1%A8.md) 
