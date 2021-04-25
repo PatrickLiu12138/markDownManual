@@ -7,7 +7,7 @@ markdown文件的编写手册
 
 ***
 
-## 目录
+## Contents
 
 - [标题](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E6%A0%87%E9%A2%98.md)  
 - [分割线](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%86%E5%89%B2%E7%BA%BF.md)  
@@ -34,4 +34,12 @@ markdown文件的编写手册
     - [静态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
     - [动态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
 
-##
+## License
+
+Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
+
+## Contact
+
+LP - 343786790@qq.com
+
+Project Link:https://github.com/PatrickLiu12138/markDownManual
