@@ -1,6 +1,14 @@
-# Contents  
+# markDown_manual
+
+![](https://img.shields.io/badge/LP-markdown-green)
+![](https://img.shields.io/badge/paltform-windows-green)
 
 markdown文件的编写手册
+
+***
+
+## 目录
+
 - [标题](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E6%A0%87%E9%A2%98.md)  
 - [分割线](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%86%E5%89%B2%E7%BA%BF.md)  
 - [字体](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%AD%97%E4%BD%93.md)  
