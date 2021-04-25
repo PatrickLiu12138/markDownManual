@@ -34,3 +34,4 @@ markdown文件的编写手册
     - [静态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
     - [动态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
 
+##
