@@ -22,6 +22,7 @@ markdown文件的编写手册
     - [无序列表](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%97%E8%A1%A8.md) 
     - [有序列表](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%97%E8%A1%A8.md) 
     - [区块](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%97%E8%A1%A8.md) 
+    - [复选框列表](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%88%97%E8%A1%A8.md) 
 - [代码](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E4%BB%A3%E7%A0%81.md) 
 - [链接](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E9%93%BE%E6%8E%A5.md) 
 - [图片](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/%E5%9B%BE%E7%89%87.md) 
