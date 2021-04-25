@@ -34,7 +34,11 @@ markdown文件的编写手册 :muscle: :muscle: :muscle:
     - [静态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
     - [动态badge](https://github.com/PatrickLiu12138/markDownManual/blob/main/manual/github-badge.md)
 
-[参考模板](https://github.com/PatrickLiu12138/markDownManual/tree/main/template)
+---
+
+[**参考模板**](https://github.com/PatrickLiu12138/markDownManual/tree/main/template)
+
+---
 
 ## License
 
