@@ -42,10 +42,10 @@ markdown文件的编写手册 :muscle: :muscle: :muscle:
 
 ## License
 
-Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
+Distributed under the GNU GPLv3 License. See [LICENSE](https://github.com/callmeLP/markDownManual/blob/main/LICENSE.txt) for more information.
 
 ## Contact
 
 LP - 343786790@qq.com
 
-Project Link:https://github.com/PatrickLiu12138/markDownManual
+Project Link:https://github.com/callmeLP/markDownManual
